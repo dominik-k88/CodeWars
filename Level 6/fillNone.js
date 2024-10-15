@@ -1,3 +1,4 @@
+/**LINK to Kata- https://www.codewars.com/kata/5edaa69f5fcd510020199489/javascript **/
 const fillNone = (arr, method) => {
     const param0 = arr => {
         const numbers = []
